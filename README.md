@@ -11,9 +11,8 @@
 <!-- PROFILE HEADER -->
 <div align="center">
   
-  <!-- Profile Image -->
-  <img src="https://avatars.githubusercontent.com/u/saeedullah55?v=4" alt="Saeed Ullah" width="120" height="120" style="border-radius: 50%; border: 3px solid #FF2D20;"/>
-  
+
+
   <!-- Animated Greeting -->
   <h1>
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> 
@@ -36,11 +35,10 @@
   
   <!-- Social Links -->
   <p align="center">
-    <a href="https://linkedin.com/in/saeedullah55">
+    <a href="www.linkedin.com/in/
+saeed-ullah-684516335
+">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/saeedullah55">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -257,10 +255,12 @@
   ### 🤝 Let's Connect and Build Something Amazing Together!
   
   <p>
-    <a href="https://linkedin.com/in/saeedullah55">
+    <a href="www.linkedin.com/in/
+saeed-ullah-684516335
+">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:saeed1199553@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
